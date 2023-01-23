@@ -1,4 +1,4 @@
-# Mina zkApp: Hello World
+# Mina zkApp
 
 This is a zkApp that stores a number as on-chain state and contains logic to only allow this number to be replaced by its square (e.g. 2 -> 4 -> 16...).
 
